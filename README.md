@@ -1,6 +1,6 @@
 ### Hi! I'm [Edu](http://hipotesi.org) 👋🏼
 
-I'm a **beginner developer** based in Barcelona ☀️, working at [Konnecta-t](#). I'm a coding passionate focused on **All lenguages**, specifically **Python** & **HTML / CSS**. Interested in design, tech and **OpenSource** ❤️
+I'm a **beginner developer** based in Barcelona ☀️, working at [Konnecta-t](#). I'm a coding passionate focused on **All lenguages**, specifically **Python** & **HTML / CSS**. Interested in design, tech and **OpenSource** ❤️ <br>
 I love coding Google Chrome extensions, like **[Spotify Mute Ads](https://chrome.google.com/webstore/detail/spotify-mute-ads/olnlcfclbjbhklimmoemghniloimbake?hl=es)** or **[Streamus ByPasser](https://chrome.google.com/webstore/detail/streamus-bypasser/dmoemfoopcalicnobhengkfgghjndibo?hl=es)**.
 
 Aside from coding I enjoy playing videogames.
