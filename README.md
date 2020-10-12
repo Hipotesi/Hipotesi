@@ -2,6 +2,8 @@
 <h3 align="center">A passionate begginer Developer in Barcelona</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hipotesi&label=Profile%20views&color=0e75b6&style=flat" alt="hipotesi" /> </p>
+<p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hipotesi?color=red&label=Follow%20me"> </p>
+
 
 
 
