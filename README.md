@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="hhttps://hipotesi-git-master.hipotesi.vercel.app/api?username=Hipotesi&show_icons=true&hide_border=true" />
+  <img align="left" alt="Hipotesi's GitHub Stats" src="hhttps://hipotesi-git-master.hipotesi.vercel.app/api?username=Hipotesi&show_icons=true&hide_border=true" />
 
 </details>
 
