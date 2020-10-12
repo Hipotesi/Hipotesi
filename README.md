@@ -1,6 +1,6 @@
 ### Hi there, I'm Edu Olivares - Hipotesi 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://hipotesi.org)
+[![Website](http://hipotesi.org)
 
 ## I'm a 13 years old bot, student, and Developer!!
 
