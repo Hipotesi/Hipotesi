@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [an HTML web page](http://hipotesi.org)
 
-- 👨‍💻 All of my projects are available at [http://hipotesi.org/porfolio](http://hipotesi.org/porfolio)
+- 👨‍💻 All of my projects are available at [mi porfolio](http://hipotesi.org/porfolio)
 
 - 💬 Ask me about **HTML, CSS or Python 😄**
 
