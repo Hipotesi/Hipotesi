@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I think I'm funny 😇**
 
+- 🙏 Join my [Discord Community](https://discord.gg/qt4Yu5Z) please ❣
+
 
 <h3 align="left">Connect with me:</h3>
 info@hipotesi.org
