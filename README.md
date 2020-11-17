@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Edu Olivares | Hipotesi</h1>
+<h1 align="center">Hi 👋, I'm Edu Olivares | Hipotesi</h1>
 <h3 align="center">A passionate frontend developer from Spain. I'm 13 years old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hipotesi&label=Profile%20views&color=0e75b6&style=flat" alt="hipotesi" /> </p>
@@ -26,5 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hipotesi&show_icons=true&locale=en&layout=compact" alt="hipotesi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hipotesi&show_icons=true&locale=en" alt="hipotesi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hipotesi" alt="hipotesi" /></a> </p>
 
 
