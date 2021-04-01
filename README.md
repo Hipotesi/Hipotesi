@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Konnecta-t**
 
-- 🤝 I’m looking for help with **a Discord.js Bot**
+- 🤝 I’m looking for help with a **Python API**
 
 - 👨‍💻 All of my projects are available at [hipotesi.org](hipotesi.org)
 
